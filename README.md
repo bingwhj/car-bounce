@@ -1,1 +1,2 @@
-# car-bounce
+# collisionAlgorithm
+Algorithm to detect collision between two objects
